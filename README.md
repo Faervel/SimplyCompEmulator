@@ -1,2 +1,2 @@
 # SimplyCompEmulator
-Interpreter for a simple computer
+Эмулятор 8 битного компьютера
